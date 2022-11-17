@@ -1,0 +1,8 @@
+
+# ceci est le fichier de configuration du serveur apache
+
+# activation de la reecriture du moteur
+
+RewriteEngine On
+
+  RewriteRule ^(.*)$ public/index.php

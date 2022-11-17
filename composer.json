@@ -1,0 +1,23 @@
+{
+    "name": "ahlem/auth",
+    "description": "mise en pratique",
+    "type": "projet",
+    "license": "DWWM",
+    "autoload": {
+        "psr-4": {
+            "Ahlem\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahlem2389",
+            "email": "you@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": ["src/z/helpers.php"]
+    }
+
+}
